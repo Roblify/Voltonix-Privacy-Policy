@@ -20,7 +20,7 @@ The information we collect is used to provide and improve the bot's services, in
 - Fun commands
 - Role commands
 - User invites command
-- And more
+- DataBase
 We do not sell, trade, or transfer your information to third parties.
 
 ## 3. Data Retention
